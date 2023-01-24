@@ -3,6 +3,7 @@ A theme for [Oh-My-Posh](https://ohmyposh.dev) based on [Nord Theme](https://www
 
 ![screenshot](https://github.com/MirkoR89/polarNord/blob/main/nord.png)
 [^bignote]: Prompt Screenshot
+
 ## Fonts
 
 This theme requires a terminal font such as **NerdFonts** to display icons properly. 
@@ -17,3 +18,6 @@ This Theme was inspired by those themes:
 - [M365Princess](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/M365Princess.omp.json)
 - [agnoster](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/agnoster.omp.json)
 - [marcduiker](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/themes/marcduiker.omp.json)
+
+![screenshot](https://github.com/MirkoR89/polarNord/blob/main/on-my-posh_screen.png)
+[^bignote]: Prompt Screenshot 
